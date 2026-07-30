@@ -4,6 +4,15 @@
 
 **Version 1.0.0** · 103 Concepts · 10 Categories · Zero Dependencies
 
+## 📚 Learning Metadata
+
+| | |
+|---|---|
+| **Learning Level** | Beginner → Advanced |
+| **Estimated Duration** | Self-paced (103 concepts, 10 categories) |
+| **Prerequisites** | Basic understanding of AI and machine learning concepts |
+| **Learning Outcomes** | Understand 103 LLM engineering concepts across 10 categories, navigate concepts via interactive roadmap, track learning progress |
+
 ---
 
 ## Features

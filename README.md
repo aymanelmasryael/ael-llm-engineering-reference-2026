@@ -89,6 +89,16 @@ open index.html
 - LinkedIn: [aymanelmasryael](https://linkedin.com/in/aymanelmasryael)
 - X (Twitter): [@aymanelmasryael](https://x.com/aymanelmasryael)
 
+---
+
+## 🔗 Related Resources
+
+- [AEL Learning Catalog](https://github.com/aymanelmasryael/ael-learning-catalog) — Central entry point to all AEL courses
+- [Engineering Academy](https://github.com/aymanelmasryael/ael-engineering-academy) — Complete LLM engineering platform from zero to production
+- [AI Alignment Quotes](https://github.com/aymanelmasryael/ael-ai-alignment-quotes) — 10,000 bilingual AI alignment quotes
+
+---
+
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
